@@ -1,0 +1,15 @@
+{"star":"3","username":"\u7f8e\u5948\u5b50","text":"\u3044\u3044\u6f14\u594f\u3060\u304c\u7656\u304c\u5f37\u3044"}
+{"star":"4","username":"\u533f\u540d\u3055\u3093","text":"\u611f\u60c5\u304c\u6f14\u594f\u306b\u4e57\u308a\u79fb\u3063\u3066\u3044\u308b\u3002"}
+{"star":"5","username":"\u3042\u3064\u3057","text":"\u7d20\u6674\u3089\u3057\u3044\u6f14\u594f\uff01"}
+{"star":"5","username":"\u864e\u96c4","text":"\u805e\u3044\u3066\u3044\u3066\u80f8\u304c\u71b1\u304f\u306a\u308b"}
+{"star":"4","username":"","text":""}
+{"star":"3","username":"","text":""}
+{"star":"1","username":"\u30d8\u30f3\u30c7\u30eb","text":"\u81ea\u5206\u306e\u30c6\u30a4\u30b9\u30c8\u306b\u306f\u5408\u308f\u306a\u3044"}
+{"star":"3","username":"\u30c6\u30b9\u30c8","text":"\u307e\u3042\u307e\u3042"}
+{"star":"5","username":"\u60c5\u71b1\u5927\u9678","text":"\u30d5\u30b8\u30b3\u30fb\u30d8\u30df\u30f3\u30b0\u306e\u4eba\u751f\u304c\u6ef2\u307f\u51fa\u3066\u3044\u308b"}
+{"star":"5","username":"","text":""}
+{"star":"4","username":"Excellent","text":"\u30df\u30b9\u30bf\u30c3\u30c1\u306f\u3069\u3046\u3067\u3082\u3044\u3044\u3002\u4f55\u304c\u4f1d\u308f\u3063\u3066\u304f\u308b\u304b\u3060\u3002"}
+{"star":"2","username":"\u3082\u3046\u5c11\u3057","text":"\u753b\u8cea\u304c\u60aa\u3044"}
+{"star":"5","username":"","text":""}
+{"star":"4","username":"","text":""}
+{"star":"5","username":"","text":""}

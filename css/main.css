@@ -1,0 +1,55 @@
+#wrapper {
+    width: 1000px;
+    margin: 5px auto;
+    padding: 0;
+    border: 0;
+}
+
+#vote {
+    display: flex;
+    justify-content: center;
+}
+
+#vote_for_what {
+    width: 600px;
+}
+
+#vote_review {
+    width: 400px;
+}
+
+#review {
+    display: flex;
+    justify-content: center;
+}
+
+.starbox {
+    width: 200px;
+    margin-right: 5px;
+}
+
+.starimg_box {
+    text-align: center;
+}
+
+.starimg {
+    width: 150px;
+}
+
+#star_count5,
+#star_count4,
+#star_count3,
+#star_count2,
+#star_count1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.review_name {
+    font-weight: bold;
+}
+
+.review_content {
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
