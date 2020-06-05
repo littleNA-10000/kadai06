@@ -44,13 +44,6 @@
     fclose($file);
     }
 
-    // 票数カウント用変数
-    $star_count5 = 0;
-    $star_count4 = 0;
-    $star_count3 = 0;
-    $star_count2 = 0;
-    $star_count1 = 0;
-
     // ファイルから読み込み。配列（配列の要素は連想配列）json_decoとして全内容読み込ませる。
     $fp = fopen($filename, 'r');
     while (!feof($fp)) {
