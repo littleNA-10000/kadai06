@@ -16,10 +16,14 @@
     echo '</script>';
     }
 
+    function h ($value) {
+        return htmlspecialchars($value, ENT_QUOTES);
+    }
+
     //***受け取り用
-    $star = $_POST["star"];
-    $text = $_POST["text"];
-    $username = $_POST["username"];
+    $star = h($_POST["star"]);
+    $text = h($_POST["text"]);
+    $username = h($_POST["username"]);
     
     // １．コメントが空欄の場合は星の評価のみ配列に格納、２．コメントがあって名前がないときは名前を「匿名さん」に設定、３．名前・コメントともにあればそのまま格納。
     if ($text == "") {
